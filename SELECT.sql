@@ -412,6 +412,7 @@ results together into a single string.
 
 Correct output will look like this (only two columns):
 
+
 Channel Name Time
 ------------ ---------------------------------
 SYFYP        Sep 15, 2017: 06:00:00 - 06:30:00
